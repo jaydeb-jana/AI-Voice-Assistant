@@ -1,0 +1,8 @@
+{
+  "name": "Lola - AI Voice Assistant",
+  "description": "A real-time, witty, and flirty voice-to-voice AI assistant named Lola, designed as a personal companion for Jaydeb Jana.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
