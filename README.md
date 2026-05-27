@@ -41,6 +41,6 @@ Ensure you have the official Google Gen AI SDK and `lamejs` installed in your Vi
 
 ```bash
 npm install
-
+```
 ```bash
 npm run dev
