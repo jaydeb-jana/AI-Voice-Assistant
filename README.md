@@ -40,5 +40,7 @@ The core state-machine and controller orchestrating the `@google/genai` WebSocke
 Ensure you have the official Google Gen AI SDK and `lamejs` installed in your Vite/frontend environment:
 
 ```bash
-npm install @google/genai lamejs
-npm install --save-dev @types/lamejs
+npm install
+
+```bash
+npm run dev
