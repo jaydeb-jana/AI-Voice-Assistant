@@ -44,3 +44,13 @@ npm install
 ```
 ```bash
 npm run dev
+```
+
+
+---
+
+## 👑 Author & Core Developer
+
+> **Engineered with Dedication by [Jaydeb Jana](https://github.com/jaydeb-jana)**
+> 
+> 💡 **A Personal Note from the Developer:** > Building a real-time, low-latency AI voice agent with complex Web Audio API bridging and on-the-fly MP3 encoding took immense hard work, endless debugging, and countless hours of sleepless dedication. Every single line of code in this repository represents a deep passion for high-quality engineering and automation. If this project helps or inspires you, a star ⭐ would mean the world to me!
